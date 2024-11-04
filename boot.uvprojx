@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define></Define>
               <Undefine></Undefine>
-              <IncludePath>..\kkk</IncludePath>
+              <IncludePath>.\LIB</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -386,6 +386,31 @@
               <FileName>main.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
+            </File>
+            <File>
+              <FileName>lpc177x_8x_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\LIB\lpc177x_8x_uart.c</FilePath>
+            </File>
+            <File>
+              <FileName>lpc177x_8x_timer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\LIB\lpc177x_8x_timer.c</FilePath>
+            </File>
+            <File>
+              <FileName>debug_frmwrk.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\LIB\debug_frmwrk.c</FilePath>
+            </File>
+            <File>
+              <FileName>lpc177x_8x_clkpwr.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\LIB\lpc177x_8x_clkpwr.c</FilePath>
+            </File>
+            <File>
+              <FileName>lpc177x_8x_pinsel.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\LIB\lpc177x_8x_pinsel.c</FilePath>
             </File>
           </Files>
         </Group>
